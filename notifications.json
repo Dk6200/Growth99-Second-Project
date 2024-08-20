@@ -1,0 +1,74 @@
+{
+  "notifications": [
+    {
+      "id": 1,
+      "title": "Notification 1",
+      "message": "This is the message for notification 1.",
+      "timestamp": "2024-08-20 12:00",
+      "read": false
+    },
+    {
+      "id": 2,
+      "title": "Notification 2",
+      "message": "This is the message for notification 2.",
+      "timestamp": "2024-08-20 12:05",
+      "read": true
+    },
+    {
+      "id": 3,
+      "title": "Notification 3",
+      "message": "This is the message for notification 3. Check out the new features!",
+      "timestamp": "2024-08-20 12:10",
+      "read": false
+    },
+    {
+      "id": 4,
+      "title": "Notification 4",
+      "message": "Your report has been successfully submitted.",
+      "timestamp": "2024-08-20 12:15",
+      "read": true
+    },
+    {
+      "id": 5,
+      "title": "Notification 5",
+      "message": "Reminder: Your meeting is scheduled for 3 PM today.",
+      "timestamp": "2024-08-20 12:20",
+      "read": false
+    },
+    {
+      "id": 6,
+      "title": "Notification 6",
+      "message": "New comment on your post: 'Great job!'",
+      "timestamp": "2024-08-20 12:25",
+      "read": true
+    },
+    {
+      "id": 7,
+      "title": "Notification 7",
+      "message": "Update available: Version 2.1 has been released.",
+      "timestamp": "2024-08-20 12:30",
+      "read": false
+    },
+    {
+      "id": 8,
+      "title": "Notification 8",
+      "message": "You have a new follower!",
+      "timestamp": "2024-08-20 12:35",
+      "read": true
+    },
+    {
+      "id": 9,
+      "title": "Notification 9",
+      "message": "Your password was changed successfully.",
+      "timestamp": "2024-08-20 12:40",
+      "read": false
+    },
+    {
+      "id": 10,
+      "title": "Notification 10",
+      "message": "Subscription renewal reminder: Your plan will expire soon.",
+      "timestamp": "2024-08-20 12:45",
+      "read": true
+    }
+  ]
+}
